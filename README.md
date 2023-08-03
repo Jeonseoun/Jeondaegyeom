@@ -8,7 +8,7 @@
 
 #### :information_desk_person: Information
 ---
-Jeon seoun, Front-End Development:computer:
+Jeon daegyeom, Front-End Development:computer:
 
 
 #### :muscle: Skills
